@@ -4,8 +4,8 @@
 <h4 align="center">I'm Park Ryeok! a endeavoring developer🔥<br>I always do my best and strive for excellence✨</h4>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/-JAVA-green?style=plastic"/> <img src="https://img.shields.io/badge/-SpringBoot-orange?style=plastic"/> <img       src="https://img.shields.io/badge/-MySQL-yellowgreen?style=plastic"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-blue?style=plastic"/><br>
-  <img src="https://img.shields.io/badge/-MyBatis-lightgrey?style=plastic"/>
+  <img src="https://img.shields.io/badge/-JAVA-green?style=plastic"/> <img src="https://img.shields.io/badge/-SpringBoot-orange?style=plastic"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-blue?style=plastic"/><br>
+  <img src="https://img.shields.io/badge/-MySQL-yellowgreen?style=plastic"/> <img src="https://img.shields.io/badge/-MariaDB-red?style=plastic"/> <img src="https://img.shields.io/badge/-MyBatis-lightgrey?style=plastic"/><br>
   <img src="https://img.shields.io/badge/-HTML-brightgreen?style=plastic"/>
   <img src="https://img.shields.io/badge/-CSS-yellow?style=plastic"/>
   <img src="https://img.shields.io/badge/-AWS-black?style=plastic"/>
