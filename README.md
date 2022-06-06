@@ -19,3 +19,4 @@
 <a href="mailto:pryeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pryeok@gmail.com"/></a>
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=100&section=footer&fontSize=90&fontColor=000000&fontAlign=50&fontAlignY=70&reversal=true)
