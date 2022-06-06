@@ -13,7 +13,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">📚 About Me 📚</h3>
+<h3 align="center"> 🌛 About Me 🌜 </h3>
 <div align="center">
 <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-3399FF?style=flat-square&logo=Notion&logoColor=white&link= https://www.notion.so/since-11-08-c65e1ba4ca8547c5aa34bfe1cd5868c0"/></a>&nbsp
 <a href="pryeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pryeok@gmail.com"/></a>
